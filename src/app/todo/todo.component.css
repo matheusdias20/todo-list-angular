@@ -1,0 +1,54 @@
+.form-control {
+    color: #52bea0;
+    font-weight: bold;
+}
+
+
+.input-group {
+    padding: 45px 0 20px 0;
+}
+
+input {
+    border: 1px solid #52bea0;
+    border-radius: 5px;
+}
+
+.container-list-group {
+    margin: 5px 0px;
+}
+
+.input-group-addon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #52bea0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.input-group-addon i {
+    padding-left: 5%;
+}
+
+.list-group-item {
+    padding: 15px;
+    margin-bottom: 5px;
+    background-color: #52bea0;
+    border: 0.5px solid #52bea0;
+    border-radius: 5px;
+}
+
+.text-todo {
+    color: white;
+    font-size: 15px;
+    
+}
+
+span {
+    padding-right: 1%;
+}
+
+span fa {
+    color: white;
+}

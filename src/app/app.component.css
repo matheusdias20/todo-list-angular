@@ -1,0 +1,15 @@
+mat-toolbar {
+  background-color: #52bea0!important;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+
+button a {
+  display: flex;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+}

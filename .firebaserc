@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "spaangular-todolist": {
+      "hosting": {
+        "spaangular": [
+          "spaangular-todolist"
+        ]
+      }
+    }
+  }
+}
